@@ -4,4 +4,5 @@ The objective of this file is to have some information of this sample repository
 
 ### Changes
 
-TODO: Please feel free to delete this line and add anything you want here. 
+Karl Here using my new text editor to add this line to m monzoor's original file cloned from github.  June 24 10:16 pm
+ 
